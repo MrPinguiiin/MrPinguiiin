@@ -78,6 +78,42 @@
 
 ###
 
+<h3 align="left">🚀   Featured Projects</h3>
+
+###
+
+<div align="left">
+  <h4>💼 <a href="https://mystorytell.vercel.app/" target="_blank">Portofolio</a></h4>
+  <p>Personal portfolio website showcasing fullstack development and graphic design skills. Features modern design with sections for about, skills, experience, portfolio showcase, and contact information.</p>
+
+  <h4>📧 <a href="https://mailhog.vercel.app/" target="_blank">mailHog</a></h4>
+  <p>Temporary email generator service that allows users to create disposable email addresses instantly. Perfect for testing, privacy protection, and avoiding spam on online registrations.</p>
+
+  <h4>🗺️ <a href="https://mapker.vercel.app/" target="_blank">Map Picker</a></h4>
+  <p>Free and open-source map picker component for Svelte using OpenStreetMap and Leaflet. Features location selection, search functionality, customizable styling, and embed code generation.</p>
+
+  <h4>☕ <a href="https://www.beanbill.my.id/" target="_blank">POS Coffee Shop</a></h4>
+  <p>All-in-one point-of-sale solution designed specifically for coffee shops. Streamlines operations with order management, real-time analytics, inventory tracking, and integrated payment systems.</p>
+
+  <h4>📦 <a href="https://jne-analyzer.vercel.app/" target="_blank">JNE LABEL ANALYZER</a></h4>
+  <p>Smart tool to analyze shipping labels and extract package information with costs. Uses AI to process JNE shipping label images and automatically extract sender, recipient, and pricing details.</p>
+
+  <h4>🖼️ <a href="https://imagecv.sendvitation.com/" target="_blank">Image Converter</a></h4>
+  <p>Powerful image conversion tool supporting multiple formats including PNG, JPG, WebP, GIF, and BMP. Features bulk processing up to 30 images, drag & drop interface, and privacy-focused processing.</p>
+
+  <h4>📸 <a href="https://photoqu.vercel.app/" target="_blank">Self Photobooth</a></h4>
+  <p>Interactive photo booth application that allows users to capture photos, customize them, and share with others. Features countdown timer, photo history, and instant sharing capabilities.</p>
+
+  <h4>🔄 <a href="https://serverless.badcode.biz.id/" target="_blank">Proxy Serverless x Nautica</a></h4>
+  <p>Serverless proxy service providing location detection, server status monitoring, and domain management. Features IP geolocation, ISP detection, and responsive theme switching.</p>
+</div>
+
+<p align="center">
+  <em>💡 Want to see more? Check out my <a href="https://github.com/MrPinguiiin?tab=repositories" target="_blank">GitHub repositories</a> for all my projects!</em>
+</p>
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
