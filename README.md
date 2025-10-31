@@ -86,6 +86,9 @@
   <h4>💼 <a href="https://mystorytell.vercel.app/" target="_blank">Portofolio</a></h4>
   <p>Personal portfolio website showcasing fullstack development and graphic design skills. Features modern design with sections for about, skills, experience, portfolio showcase, and contact information.</p>
 
+  <h4>🔌 <a href="https://api-image.sendvitation.com/docs" target="_blank">Image Enhancement & Media API</a></h4>
+  <p>Comprehensive REST API service offering multiple image and media processing capabilities. Features include AI-powered image enhancement, background removal, music analysis and generation, OTP management, YouTube audio download, and combination tools. Fully documented with interactive API documentation.</p>
+
   <h4>📧 <a href="https://mailhog.vercel.app/" target="_blank">mailHog</a></h4>
   <p>Temporary email generator service that allows users to create disposable email addresses instantly. Perfect for testing, privacy protection, and avoiding spam on online registrations.</p>
 
