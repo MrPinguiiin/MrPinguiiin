@@ -95,8 +95,8 @@
   <h4>🗺️ <a href="https://mapker.vercel.app/" target="_blank">Map Picker</a></h4>
   <p>Free and open-source map picker component for Svelte using OpenStreetMap and Leaflet. Features location selection, search functionality, customizable styling, and embed code generation.</p>
 
-  <h4>☕ <a href="https://www.beanbill.my.id/" target="_blank">POS Coffee Shop</a></h4>
-  <p>All-in-one point-of-sale solution designed specifically for coffee shops. Streamlines operations with order management, real-time analytics, inventory tracking, and integrated payment systems.</p>
+  <h4>☕ <a href="https://beanbill.my.id/" target="_blank">POS Coffee Shop</a></h4>
+  <p>Complete point-of-sale system for coffee shop businesses. Manage orders efficiently, track sales in real-time, monitor inventory levels, and process payments seamlessly.</p>
 
   <h4>📦 <a href="https://jne-analyzer.vercel.app/" target="_blank">JNE LABEL ANALYZER</a></h4>
   <p>Smart tool to analyze shipping labels and extract package information with costs. Uses AI to process JNE shipping label images and automatically extract sender, recipient, and pricing details.</p>
