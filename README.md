@@ -95,7 +95,7 @@
   <h4>🗺️ <a href="https://mapker.vercel.app/" target="_blank">Map Picker</a></h4>
   <p>Free and open-source map picker component for Svelte using OpenStreetMap and Leaflet. Features location selection, search functionality, customizable styling, and embed code generation.</p>
 
-  <h4>☕ <a href="https://beanbill.my.id/" target="_blank">POS Coffee Shop</a></h4>
+  <h4>☕ <a href="https://beanbill.vercel.app/" target="_blank">POS Coffee Shop</a></h4>
   <p>Complete point-of-sale system for coffee shop businesses. Manage orders efficiently, track sales in real-time, monitor inventory levels, and process payments seamlessly.</p>
 
   <h4>📦 <a href="https://jne-analyzer.vercel.app/" target="_blank">JNE LABEL ANALYZER</a></h4>
